@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 22px;
+  font-weight: 700;
+  font-family: "Oswald", sans-serif;
+}
+p {
+  margin-top: 20px;
+}
+.container {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+.myScills {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 15px 0;
+}
+.img {
+  width: 83px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-left: 15px;
+}
+.img_css {
+  width: 70px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.href {
+  text-decoration: none;
+  color: linear-gradient(78.55deg, #7a05ab 0%, #ee3d5a 48.44%, #f2bc12 100%);
+}

@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 22px;
+  font-weight: 700;
+  font-family: "Oswald", sans-serif;
+}
+p {
+  margin-top: 20px;
+}
+.container {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+.myScills {
+  display: flex;
+  flex-wrap: wrap;
+}
+.img {
+  width: 83px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.img_css {
+  width: 80px;
+}
